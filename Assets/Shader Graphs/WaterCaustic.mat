@@ -41,7 +41,7 @@ Material:
     - _Radial_Strength: 5
     - _Twirl_Strength: 2
     - _Voronoi_Power: 10
-    - _Voronoi_Size: 91.89
+    - _Voronoi_Size: 1000
     - _Voronoi_Speed: 1.5
     m_Colors:
     - _Albedo: {r: 1, g: 0.9304833, b: 0.7122642, a: 1}
